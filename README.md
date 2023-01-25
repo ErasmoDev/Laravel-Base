@@ -12,6 +12,7 @@ Projeto com o <a href="https://ddev.readthedocs.io/en/latest/" target="_blank">D
  -Meilisearch</br>
  -Redis</br>
  -Mailhog</br>
+ -Telescope</br>
 
 Mudar o nome do projeto em .ddev/config.yaml depois de fizer o clone
 
