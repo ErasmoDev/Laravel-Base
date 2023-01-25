@@ -4,7 +4,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 </p>
 
-## Laravel Base - Version 9.48.0
+## Laravel Base - v9.48.0 (PHP v8.1.13)
 
 Projeto com o <a href="https://ddev.readthedocs.io/en/latest/" target="_blank">DDEV</a> configurado com:
 
